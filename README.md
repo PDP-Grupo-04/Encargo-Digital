@@ -1,4 +1,5 @@
 EDUCACIÓN DE CALIDAD
+
 El objetivo número 4 de la ONU que busca lograr una educación inclusiva y de calidad ha registrado un gran progreso desde el año 2000 en la meta relativa a la educación primaria. Se trata de logros importantes, como en 2015 la tasa total de matriculación abarcó el 91% en las áreas en desarrollo, asimismo, han aumentado considerablemente las tasa de alfabetización y las niñas que asisten a la escuela. 
 
 No obstante, en las regiones en desarrollo ha sido un proceso complejo a causa de los altos conflictos armados, niveles de pobreza, entre otros. Por ejemplo el Norte de África y Asia Occidental, donde los conflictos armados han generado un aumento en la proporción de los niños que no acuden a la escuela, lo cual es realmente alarmante.
