@@ -195,13 +195,13 @@ Eliminar diferencias de género, asegurar el acceso igualitario a todos los nive
         <script>
             var ctx = document.getElementById("nuestroGrafico");
             var nuestroGrafico = new Chart(ctx, {
-                type: "line",
+                type: "pie",
                 data: {
-                    labels: ["Red", "Blue", "Yellow", "Green", "Cyan", "Magenta"],
+                    labels: ["Escuelas cerradas 91%", "Escuelas abiertas 9%"],
                     datasets: [
                         {
-                            label: "# of Votes",
-                            data: [12, 19, 3, 5, 2, 3],
+                            label: "#Porcentaje escuelas cerradas vs abiertas",
+                            data: [300, 20],
                             backgroundColor: ["#FF0000", "#0000FF", "#FFFF00", "#00FF00", "#00FFFF", "#FF00FF"],
                             borderWidth: 1,
                         },
