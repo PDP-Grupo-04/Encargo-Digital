@@ -43,7 +43,7 @@ h6,
 p.lead {
     /* asignen aquí la tipografía y peso que corresponda para los títulos */
     font-family:  'Barlow Semi Condensed', sans-serif;
-    font-weight: 400;
+    font-weight: 900;
 }
 
 a {
