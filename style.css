@@ -18,7 +18,7 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
     --primercolor: #fffff;
     --segundocolor: #1433d9; /* menos luminoso y más saturado que el primero */
     --tercercolor: #ff9fd5; /* más luminoso y menos saturado que el primero */
-    --colorclaro: rgba(255, 255, 255, 1);
+    --colorclaro: rgba(18, 68, 217, 0.9);
     --coloroscuro: rgba(249, 244, 241, 1);
 }
 
